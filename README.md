@@ -9,4 +9,4 @@ Contribution Guidelines:
 
 -2. Contributions should reflect positively on the organization - this repository is mirrored in a public google drive. 
 
--3. Contributions not made for general distribution should be marked <marking pattern here> so they are not reflected in the public google drive. 
+-3. Document intended for internal use only should not be put in this drive. 
