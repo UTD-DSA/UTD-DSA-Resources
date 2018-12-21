@@ -1,4 +1,6 @@
 # UTD-DSA-Resources
+FOR USER GUIDE: Download the guide here: https://github.com/UTD-DSA/UTD-DSA-Resources/tree/master/Guides/Github%20Guide
+
 This repository is designed to serve as an archive and a arsenal for the UTD DSA club, or more broadly for any college leftist club. 
 
 Contribution Guidelines:
@@ -7,6 +9,6 @@ Contribution Guidelines:
 
 -1b. General resources should be put into a folder reflecting their form and function - eg Templates -> Fliers, Memes -> Economy
 
--2. Contributions should reflect positively on the organization - this repository is mirrored in a public google drive. 
+-2. Contributions should reflect positively on the organization. This drive is public. 
 
--3. Document intended for internal use only should not be put in this drive. 
+-3. Document intended for internal distribution only should not be put in this drive. 
