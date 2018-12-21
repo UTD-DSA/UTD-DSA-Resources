@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<diagram program="umlet" version="14.3.0">
+  <zoom_level>13</zoom_level>
+  <element>
+    <id>UMLActor</id>
+    <coordinates>
+      <x>0</x>
+      <y>13</y>
+      <w>156</w>
+      <h>143</h>
+    </coordinates>
+    <panel_attributes>erin's Computer</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLActor</id>
+    <coordinates>
+      <x>1313</x>
+      <y>13</y>
+      <w>156</w>
+      <h>143</h>
+    </coordinates>
+    <panel_attributes>Yash's computer</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>572</x>
+      <y>481</y>
+      <w>390</w>
+      <h>403</h>
+    </coordinates>
+    <panel_attributes>UTD-DSA-Resources (Github official)
+--
+master
+-Constitution v1.0
+-Slack Guidelines v1.0
+--
+master (previous versions)
+-Constitution v0.0
+-Constitution v0.1
+-Constitution v0.2
+-Slack Guidelines v0.0
+--
+proposed-rules-changes
+-Constitution v1.1
+-Slack Guidelines v2.0
+updated after user push:
+Constituion v2.e
+Slack Guidelines v2.Y</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>1105</x>
+      <y>182</y>
+      <w>221</w>
+      <h>299</h>
+    </coordinates>
+    <panel_attributes>UTD-DSA-Resources
+(Yash's copy)
+--
+master
+-Constitution v1.0
+-Slack Guidelines v1.0
+--
+master (previous versions)
+-Constitution v0.0
+-Constitution v0.1
+-Constitution v0.2
+-Slack Guidelines v0.0
+--
+proposed-rules-changes
+-Constitution v1.1
+-Slack Guidelines v2.Y</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>156</x>
+      <y>156</y>
+      <w>221</w>
+      <h>299</h>
+    </coordinates>
+    <panel_attributes>UTD-DSA-Resources
+(erin's copy)
+--
+master
+-Constitution v1.0
+-Slack Guidelines v1.0
+--
+master (previous versions)
+-Constitution v0.0
+-Constitution v0.1
+-Constitution v0.2
+-Slack Guidelines v0.0
+--
+proposed-rules-changes
+-Constitution v2.e
+-Slack Guidelines v1.0</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>364</x>
+      <y>247</y>
+      <w>234</w>
+      <h>260</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;-
+Clone</panel_attributes>
+    <additional_attributes>10.0;10.0;160.0;180.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>949</x>
+      <y>299</y>
+      <w>182</w>
+      <h>208</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;-
+Clone</panel_attributes>
+    <additional_attributes>120.0;10.0;10.0;140.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>364</x>
+      <y>312</y>
+      <w>286</w>
+      <h>273</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;-
+Push
+edited Constitution</panel_attributes>
+    <additional_attributes>160.0;190.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>949</x>
+      <y>377</y>
+      <w>221</w>
+      <h>195</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;-
+Push 
+Slack
+Guidelines 2.Y</panel_attributes>
+    <additional_attributes>10.0;130.0;120.0;10.0</additional_attributes>
+  </element>
+</diagram>
